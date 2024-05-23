@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "820627818119",
+    "project_id": "googelsignin-5c718",
+    "storage_bucket": "googelsignin-5c718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820627818119:android:e1e210ce4f4590fddc5a22",
+        "android_client_info": {
+          "package_name": "com.example.googlesignin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQmP4HgAff3LTKcn5PFAeqbJVGb-nkLqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
